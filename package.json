@@ -2,15 +2,10 @@
   "name": "cypress-intermediario-v2",
   "version": "1.0.0",
   "description": "Repositório do projeto v2 do curso de testes automatizados com Cypress (intermdiário) da Escola TAT no Udemy",
-  "main": "cypress.config.js",
+  "main": "package-lock.json",
   "scripts": {
     "test": "cypress run"
   },
-  "keywords": [
-    "Cypress intermediário",
-    "Talking About Testing",
-    "E2E Testing"
-  ],
   "author": "",
   "license": "MIT",
   "homepage": "",
